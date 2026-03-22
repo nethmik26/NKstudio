@@ -2,7 +2,7 @@
 
 A bold, interactive portfolio website for NK Creative Studio - a creative design agency specializing in brand identity, web design, and motion graphics.
 
-![NK Studio Preview](https://via.placeholder.com/800x400/0a0a0f/FF3CAC?text=NK+Creative+Studio)
+![NK Studio Preview](https://nksutdio2613.netlify.app/)
 
 ## ✨ Features
 
