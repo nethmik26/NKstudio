@@ -84,4 +84,4 @@ Established in 2025, NK Creative Studio is obsessed with color, motion, and crea
 ---
 
 **© 2026 NK Studio. All rights reserved.**</content>
-<parameter name="filePath">k:\Projects\Nkstudio\README.md
+<parameter name="filePath">
